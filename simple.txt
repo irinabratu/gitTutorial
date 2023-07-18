@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<<<<<<< HEAD
 <title>An Example Website New Conflicts from Main branch</title>
+=======
+<title>An Example Website New Updated for Conflicts</title>
+>>>>>>> realwork
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
