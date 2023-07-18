@@ -128,8 +128,8 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
-  <p>A <b>responsive</b> website created by me.</p>
+  <h1>My Websit4444444e</h1>
+  <p>A <b>responsive</b> website44444 created by me.</p>
 </div>
 
 <div class="navbar">
@@ -141,7 +141,7 @@ body {
 
 <div class="row">
   <div class="side">
-    <h2>About Me</h2>
+    <h2>Abou4444t Me</h2>
     <h5>Photo of me:</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
