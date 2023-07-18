@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<<<<<<< HEAD
-<title>An Example Website New Conflicts from Main branch</title>
-=======
+
 <title>An Example Website New Updated for Conflicts</title>
->>>>>>> realwork
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -128,8 +125,9 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Websit4444444e</h1>
-  <p>A <b>responsive</b> website44444 created by me.</p>
+
+  <h1>My Websddddddddddite</h1>
+  <p>A <b>responsive</b> website creadddddddddddted by me.</p>
 </div>
 
 <div class="navbar">
